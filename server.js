@@ -11,7 +11,7 @@ app.get("/api/info", (req, res) => {
 res.json({
 name: "NPM Lab",
 subject: "Open Source Technology",
-semester: "B-Tech 6th Sem"
+semester: "B-Tech CE 6th Sem"
 });
 });
 
